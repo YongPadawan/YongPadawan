@@ -27,4 +27,4 @@ a renderer with TXT/HTML/JSON export. Team lead on the group projects. <sub>Go s
 my university thesis, an LSTM forecasting ship positions from a 15.4M-record AIS dataset.
 <sub>Python · pandas · TensorFlow/Keras</sub>
 
-**Tools:** Python, Go, JavaScript, SQL, Flask, pandas, TensorFlow/Keras, Kafka, PySpark, SQLite, MongoDB, Docker, Git
+**Tools:** Python, Go, JavaScript, TypeScript, SQL, React, Flask, pandas, TensorFlow/Keras, Kafka, PySpark, SQLite, MongoDB, Docker, Git
